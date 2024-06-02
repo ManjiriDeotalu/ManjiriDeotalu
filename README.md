@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manjiri Deotalu</h1>
-<h3 align="center">AI & Edge Computing enthusiast , Passionate Web developer , AWS & Google Cloud</h3>
+<h3 align="center">Cloud & Edge Computing enthusiast , Passionate Web developer , AWS & Google Cloud</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@deotalumanjiri](https://medium.com/@deotalumanjiri)
 
